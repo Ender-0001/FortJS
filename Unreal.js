@@ -2,8 +2,6 @@
     FortJS
     Written by Ender & Deviationsz (Ender#0001 and Deviationsz#7099)
 */
-const { INT32 } = require('memoryjs');
-const memoryjs = require('memoryjs');
 const memoryJS = require('memoryjs');
 const processName = "FortniteClient-Win64-Shipping.exe";
 const Logger = require('./logging/log');
