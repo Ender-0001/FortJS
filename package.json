@@ -1,0 +1,18 @@
+{
+  "name": "FortJS",
+  "version": "0.0.1",
+  "description": "Just a lil script to access values in fortnite 1.8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fortnite",
+    "typescript"
+  ],
+  "author": "deviationsz/ender",
+  "license": "GNU",
+  "dependencies": {
+    "memoryjs": "^3.4.0"
+  }
+}
